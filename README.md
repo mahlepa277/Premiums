@@ -3,7 +3,7 @@
 **Ini Adalah Script Untuk Crack Akun Instagram, Untuk Cara Menggunakannya Bisa Lihat Di** https://youtu.be/u17ZQgSs3aY
 
 # Screenshot
-![Screenshot_2022-02-14-09-45-47-07_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/65714340/154426018-589b14df-5371-47f5-a061-334315513775.png)
+![IMG_20220319_102953](https://user-images.githubusercontent.com/65714340/159227410-afdbb075-da8a-4c12-ae28-64efc6e1c22b.jpg)
 
 # Perintah
     $ pkg update && upgrade
@@ -13,9 +13,10 @@
     $ pip install futures
     $ git clone https://github.com/RozhakXD/Premium
     $ cd Premium
+    $ cythonize -i rozhak.cpp
     $ git pull
     $ python Prem.py
-# Sosial Media
+# Media Sosial
     • Fb : https://free.facebook.com/rozhak.xyz
     • Ig : https://www.instagram.com/rozhak_official
     • Yt : https://www.youtube.com/rozhakid
