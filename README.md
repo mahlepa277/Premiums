@@ -13,7 +13,7 @@
     $ pip install futures
     $ git clone https://github.com/RozhakXD/Premium
     $ cd Premium
-    $ cythonize -i rozhak.cpp
+    $ cythonize -i instagram.cpp
     $ git pull
     $ python Prem.py
 # Media Sosial
