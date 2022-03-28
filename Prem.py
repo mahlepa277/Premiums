@@ -1,8 +1,13 @@
-import os
+import platform, os
 
-try:
-  os.system('git pull')
-  print('[!] Script sedang di perbaiki...')
-  exit()
-except:pass
+def __main__():
+  try:
+    __import__('instagram').__masuk__()
+  except Exception as e:
+    exit(f"\x1b[1;97m[\x1b[1;91m!\x1b[1;97m]\x1b[1;91m {e}")
 
+if __name__=='__main__':
+  if '64bit' in str(platform.architecture()):
+    os.system('git pull');__main__()
+  else:
+    exit("\x1b[1;97m[\x1b[1;91m!\x1b[1;97m]\x1b[1;91m Gunakan Perangkat 64bit")
