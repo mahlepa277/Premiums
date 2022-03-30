@@ -12,7 +12,7 @@
     $ pip install -r requirements.txt
     $ git clone https://github.com/RozhakXD/Premium
     $ cd Premium
-    $ cythonize -i ig.cpp
+    $ cythonize -i IBF.cpp
     $ git pull
     $ python Prem.py
 # Media Sosial
