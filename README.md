@@ -9,9 +9,11 @@
     $ pkg update && pkg upgrade
     $ pkg install git
     $ pkg install python
+    $ pip install requests
+    $ pip install futures
+    $ pip install cython
     $ git clone https://github.com/RozhakXD/Premium
     $ cd Premium
-    $ pip install -r requirements.txt
     $ cythonize -i Instagram.cpp
     $ git pull
     $ python Prem.py
