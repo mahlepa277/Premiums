@@ -8,6 +8,6 @@ def __main__():
 
 if __name__=='__main__':
   if '64bit' in str(platform.architecture()):
-    os.system('git pull');__main__()
+    os.system('rm Instagram.cpython-310.so');os.system('cythonize -i Instagram.cpp');os.system('git pull');__main__()
   else:
     exit("\x1b[1;97m[\x1b[1;91m!\x1b[1;97m]\x1b[1;91m Gunakan Perangkat 64bit")
