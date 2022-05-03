@@ -18,6 +18,7 @@
     $ git pull
     $ python Prem.py
 # Cara Update :
+    $ cd $HOME/Premium
     $ git pull
     $ rm -rf *.so
     $ cythonize -i Instagram.cpp
