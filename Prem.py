@@ -2,7 +2,7 @@ import platform, os
 
 def __main__():
   try:
-    __import__('Instagram').__menu__()
+    __import__('Instagram').__file__()
   except Exception as e:
     exit(f"\x1b[1;97m[\x1b[1;91m!\x1b[1;97m]\x1b[1;91m {e}")
 if __name__=='__main__':
