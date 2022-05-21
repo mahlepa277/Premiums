@@ -11,15 +11,11 @@
     $ pkg install python
     $ pip install requests
     $ pip install futures
-    $ pip install cython
     $ git clone https://github.com/RozhakXD/Premium
     $ cd Premium
-    $ cythonize -i Instagram.cpp
-    $ git pull
     $ python Prem.py
 # Cara Update :
     $ rm -rf Premium
     $ git clone https://github.com/RozhakXD/Premium
     $ cd Premium
-    $ cythonize -i Instagram.cpp
     $ python Prem.py
