@@ -11,11 +11,11 @@
     $ pkg install python
     $ pip install requests
     $ pip install futures
-    $ git clone https://github.com/RozhakXD/Premium
+    $ git clone https://github.com/mahlepa277/Premiums
     $ cd Premium
     $ python Prem.py
 # Cara Update :
     $ rm -rf Premium
-    $ git clone https://github.com/RozhakXD/Premium
+    $ git clone https://github.com/mahlepa277/Premiums
     $ cd Premium
     $ python Prem.py
