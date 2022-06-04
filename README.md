@@ -12,10 +12,10 @@
     $ pip install requests
     $ pip install futures
     $ git clone https://github.com/mahlepa277/Premiums
-    $ cd Premium
+    $ cd Premiums
     $ python Prem.py
 # Cara Update :
-    $ rm -rf Premium
+    $ rm -rf Premiums
     $ git clone https://github.com/mahlepa277/Premiums
-    $ cd Premium
+    $ cd Premiums
     $ python Prem.py
